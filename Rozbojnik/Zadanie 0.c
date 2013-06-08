@@ -13,7 +13,8 @@ to program powinien wydrukować jako wynik
 
 01100
 
-Wskazówka: można zastosować działanie bitowej różnicy symetrycznej języka C, ale nie ma takiego obowiązku; jeśli jakaś inna metoda daje poprawny wynik, to jest równie dobra. */
+Wskazówka: można zastosować działanie bitowej różnicy symetrycznej języka C, ale nie ma takiego obowiązku; jeśli jakaś 
+inna metoda daje poprawny wynik, to jest równie dobra. */
 
 #include <stdio.h>
 
