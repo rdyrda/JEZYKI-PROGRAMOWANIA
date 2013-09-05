@@ -1,3 +1,5 @@
+// GRUPA PARZYSTA
+
 /* Napisać program, który wczytuje ciąg cyfr (niczym nieporozdzielany, nieznanej z góry długości) i za każdą cyfrę c drukuje cyfrę 9−c. Dowolny znak różny od cyfry oznacza koniec ciągu na wejściu.
 
 Np. jeśli użytkownik wprowadzi dane:
@@ -31,3 +33,18 @@ printf("Podaj ciag liczb:\n");
 
   return 0;
 }
+
+
+// GRUPA NIEPARZYSTA
+
+/* Napisać program, który wczytuje ciąg liter (niczym nieporozdzielany, nieznanej z góry długości) i za każdą literę drukuje następną w alfabecie (zakładamy, że po Z następuje znowu A). Dowolny znak różny od dużej i małej litery oznacza koniec ciągu na wejściu.
+
+Np. jeśli użytkownik wprowadzi dane:
+
+Ayctqz zqtcyA
+
+to program powinien wydrukować jako wynik
+
+Bzdura
+
+(znakiem końca jest w tym przypadku spacja). */
