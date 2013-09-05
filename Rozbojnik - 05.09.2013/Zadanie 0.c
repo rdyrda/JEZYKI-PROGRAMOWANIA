@@ -52,8 +52,8 @@ Bzdura
 
 (znakiem końca jest w tym przypadku spacja). */
 
-#include<stdio.h> 
-#include<string.h>
+#include <stdio.h> 
+#include <string.h>
 
 #define DUZO 10000
 
